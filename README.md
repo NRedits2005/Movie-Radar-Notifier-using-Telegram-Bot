@@ -439,7 +439,7 @@ Built using:
 
 ---
 
-# 🎬 CinePulse
+# 🎬 NR Movie Radar
 
 Automated movie notifications directly to Telegram.
 
